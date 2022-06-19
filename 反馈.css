@@ -1,0 +1,142 @@
+.box1 {
+    width: 1200px;
+    height: 70px;
+    /* background-color: pink; */
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?mbg0c2');
+    src: url('fonts/icomoon.eot?mbg0c2#iefix') format('embedded-opentype'), url('fonts/icomoon.ttf?mbg0c2') format('truetype'), url('fonts/icomoon.woff?mbg0c2') format('woff'), url('fonts/icomoon.svg?mbg0c2#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.box1 .box2 {
+    float: left;
+    width: 70px;
+    height: 70px;
+    /* background-color: blueviolet; */
+    font-family: 'icomoon';
+    font-size: 70px;
+    color: #fa2a83;
+}
+
+.box1 .box3 {
+    float: left;
+    width: 70px;
+    height: 70px;
+    /* background-color: coral; */
+    font-size: 35px;
+    font-family: '华文行楷';
+    text-align: center;
+    line-height: 70px;
+}
+
+.box1 .box4 {
+    padding-left: 200px;
+    font-size: 30px;
+    font-family: '华文行楷';
+    line-height: 60px;
+}
+
+.box5 {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.box6 {
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+    /* background-color: rgb(158, 173, 218); */
+}
+
+.box7 {
+    color: red;
+}
+
+.box8 {
+    width: 1200px;
+    height: 250px;
+    /* background-color: rgb(22, 230, 178); */
+    margin: 0 auto;
+    margin-top: 20px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+}
+
+.box8 .box9 {
+    width: 1180px;
+    height: 30px;
+    padding-left: 20px;
+    background-color: #eef6ff;
+}
+
+.box8 .box10 {
+    width: 600px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.box11 {
+    width: 1200px;
+    height: 160px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+}
+
+.box11 .box12 {
+    width: 1180px;
+    height: 30px;
+    padding-left: 20px;
+    background-color: #eef6ff;
+}
+
+.box13 {
+    width: 1200px;
+    height: 120px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+}
+
+.box13 .box14 {
+    width: 1180px;
+    height: 30px;
+    background-color: #eef6ff;
+    padding-left: 20px;
+}
+
+.box15 {
+    width: 1200px;
+    height: 50px;
+    background-color: #eef6ff;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 50px;
+    color: red;
+}
+
+.box15 button {
+    width: 60px;
+    height: 48px;
+    color: red;
+    font-size: 20px;
+    font-family: '黑体';
+}

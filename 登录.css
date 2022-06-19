@@ -1,0 +1,15 @@
+body {
+    background-image: url(images/登录注册页面背景.jpg);
+    color: #fff;
+}
+
+.dl {
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: #fff;
+}
+
+.zc a {
+    color: red;
+}
